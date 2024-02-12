@@ -1,5 +1,5 @@
 <doctype html>
-<html lang="en-US">
+<html>
   <head>
     <title>Kalon Ridley's Portfolio</title>
   </head>
