@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
  <style>/* Style the buttons that are used to open and close the accordion panel */
