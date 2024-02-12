@@ -1,5 +1,5 @@
 <body>
-  <p><div><h1>Kalon Ridley's Portfolio</h1>
+ <div> <p><h1>Kalon Ridley's Portfolio</h1>
   For Dominican University</p></div>
   
   <div><h2>Goal 1</h2></div>
